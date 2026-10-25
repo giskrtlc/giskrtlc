@@ -1,6 +1,6 @@
 ![MasterHead](https://computing.llnl.gov/sites/default/files/styles/leaderboard_image/public/2021-10/DO%20IT%20logo-Comp-leaderboard.png?itok=TqUzOXYQ)
 
-<h1 align="center">Hi 👋, I'm GUFRAN İLKNURSENA KARTALCI</h1>
+<h1 align="center">Hi, I'm GUFRAN İLKNURSENA KARTALCI 👋 </h1>
 <h3 align="center">4th-Grade Student | Junior Software Developer | Junior Data Analyst</h3>
 
 - 🌱 I’m currently learning **Cyber security, data minig,Wireless Networks and Satallite**
